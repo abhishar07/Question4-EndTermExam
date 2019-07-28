@@ -63,6 +63,7 @@ class Account {
         this.type = type;
     }
     int credit(int credit) {
+ 
         return bal = bal + credit;
     }
     void display()
